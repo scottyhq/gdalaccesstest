@@ -1,2 +1,2 @@
 # gdalAccessTest
-[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/fastice/gdalAcessTest/HEAD?urlpath=lab)
+[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/fastice/gdalacesstest/HEAD?urlpath=lab)
