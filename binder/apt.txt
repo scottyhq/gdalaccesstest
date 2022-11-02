@@ -1,4 +1,5 @@
 # required for qgis.core
+curl=7.68
 libgl1-mesa-glx
 libxcb-xinerama0
 zip
