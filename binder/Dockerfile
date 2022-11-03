@@ -1,1 +1,1 @@
-FROM pangeo/base-image:latest
+FROM quay.io/pangeo/base-image:2022.11.03
